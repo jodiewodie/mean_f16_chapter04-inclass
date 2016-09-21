@@ -1,4 +1,4 @@
-## 1 - creating new c9 workspace
+## 1 - creating new c9 workspace or folder
 ## 2 - github repository created
 ## 3 - link local to github repository
 ## 4 - automate check-in process
